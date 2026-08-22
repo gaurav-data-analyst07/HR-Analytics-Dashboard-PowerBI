@@ -106,7 +106,8 @@ This dashboard can help HR teams:
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](HR Analytics Dashboard.png)
+
+![HR Analytics Dashboard](HR%20Analytics%20Dashboard.png)
 
 ---
 
